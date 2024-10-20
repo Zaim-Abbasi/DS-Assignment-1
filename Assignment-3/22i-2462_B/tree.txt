@@ -1,0 +1,7 @@
+root,root,root
+	PatientsData,root/PatientsData,mainDirectory
+		PatientsHome,root/PatientsData/PatientsHome,PatientsHome_Directory
+	PatientsList.txt,root/PatientsData/PatientsList.txt,PatientsList_Directory
+Logs,root/Logs,mainDirectory
+	LogsHome,root/Logs/LogsHome,LogsHome_Directory
+LogsReport.pdf,root/Logs/LogsReport.pdf,LogsReport_Directory

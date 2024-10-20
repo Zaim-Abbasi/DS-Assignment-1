@@ -1,0 +1,45 @@
+Design and implement a File Directory Tree Shell tailored for a small, embedded operating system used in medical devices. This shell will enable the management of files and directories, with a focus on efficiency and resource optimization.
+Task Description:
+You have been enlisted by a company specializing in medical device embedded systems. They are developing a new medical device that necessitates a compact operating system for debugging purposes. This operating system will exclusively manage files categorized as patient data, device seƫngs, and logs. Your mission is to create a File Directory Tree Shell customized for their specific needs.
+NOTE: YOU MAY RESTRICT THIS TO BINARY TREE AND MAINTAIN ONLY PATIENT DATA AND LOGS.
+
+Following is how a sample tree is made for it:
+We have a root "\" which have 3 sub branches.
+Branch 1 is named Patients which have 3 more branches named John, Jack and Jill, while Jill has 2 sub branches named xray01.jpg and report.pdf.
+
+Branch 2 is named Settings and it have 2 sub branches Frequency and Illumination. It doesnot have any further sub branch.
+
+Branch 3 is named logs and it have 2 sub branches 12.02.23 having no sub branch and 12.04.23 which have 2 sub branches as log1.txt and log2.txt.
+
+Note: This is only a sample tree and could have more branches.
+
+
+
+I. File Directory Structure (15 Marks)
+
+1. Implement a tree data structure to represent files and directories within the operating system.
+Each node in the tree should have the following atributes:
+• Name: The name of the file or directory.
+• Path: The full path to the file or directory.
+• Type: Indication of whether the node is a directory or file.
+• Children: A list of child nodes.
+2. Develop a function to create a new directory within the tree. Users should be able to specify the
+directory name.
+3. Create a function to create new files within the tree, allowing users to specify the name, type
+(e.g., txt, pdf), and complete path.
+
+II. Core Functionality (25 Marks)
+
+4. Implement functionalities for:
+• Listing the file directory tree in a tree view (level order).
+• Merging directories, combining the contents of a given subtree or tree.
+• Deleting and renaming files and directories.
+• Searching for files and directories by name or content.
+• Copying and moving files and directories between different locaƟons.
+• Exporting and importing the file directory tree to and from a file.
+
+III. Error Handling (10 Marks)
+
+5. Implement comprehensive error handling for common scenarios, including but not limited to attempting to delete non-empty directories, moving to non-existent locaƟons, and other potential pitfalls. During merging or moving, check for duplicates as well.
+
+
