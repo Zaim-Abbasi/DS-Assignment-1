@@ -1,0 +1,59 @@
+1.	Employee Name: John Smith
+	Employee ID: EMP001
+	Salary: $60,000
+	Date of Joining: 2020-03-15	
+	Designation: Software Engineer
+
+2.	Employee Name: Jane Doe
+	Employee ID: EMP002
+	Salary: $70,000
+	Date of Joining: 2019-12-10
+	Designation: Senior Software Engineer
+
+3.	Employee Name: Robert Johnson
+	Employee ID: EMP003
+	Salary: $85,000
+	Date of Joining: 2021-06-25
+	Designation: Data Scientist
+
+4.	Employee Name: Sarah Williams
+	Employee ID: EMP004
+	Salary: $75,000
+	Date of Joining: 2020-01-30
+	Designation: Project Manager
+
+5.	Employee Name: Michael Brown
+	Employee ID: EMP005
+	Salary: $95,000
+	Date of Joining: 2018-08-20
+	Designation: Senior Data Analyst
+
+6.	Employee Name: Emily Davis
+	Employee ID: EMP006
+	Salary: $80,000
+	Date of Joining: 2022-02-14
+	Designation: UX Designer
+
+7.	Employee Name: William Wilson
+	Employee ID: EMP007
+	Salary: $62,000
+	Date of Joining: 2019-05-05
+	Designation: Software Engineer
+
+8.	Employee Name: Olivia Moore
+	Employee ID: EMP008
+	Salary: $68,000
+	Date of Joining: 2020-07-12
+	Designation: Quality Assurance Analyst
+
+9.	Employee Name: James Lee
+	Employee ID: EMP009
+	Salary: $73,000
+	Date of Joining: 2019-11-03
+	Designation: Senior Software Engineer
+
+10.	Employee Name: Emma Johnson
+	Employee ID: EMP010
+	Salary: $90,000
+	Date of Joining: 2021-03-22
+	Designation: Data Scientist
